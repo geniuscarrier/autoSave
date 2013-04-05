@@ -1,0 +1,34 @@
+{
+    "name": "autoSave",
+    "title": "jQuery autoSave",
+    "description": "an autoSave jQuery plugin.",
+    "keywords": [
+        "autoSave"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Yang Zhao",
+        "url": "http://www.geniuscarrier.com/about/"
+    },
+    "maintainers": [
+        {
+            "name": "Yang Zhao",
+            "email": "geniuscarrier@gmail.com",
+            "url": "http://www.geniuscarrier.com/"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "bugs": "https://github.com/geniuscarrier/autoSave/issues",
+    "demo": "http://www.geniuscarrier.com/demo/autoSave/autoSave.html",
+    "homepage": "https://github.com/geniuscarrier/autoSave",
+    "docs": "https://github.com/geniuscarrier/autoSave",
+    "download": "https://github.com/geniuscarrier/autoSave/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
