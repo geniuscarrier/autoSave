@@ -1,11 +1,11 @@
 {
     "name": "autoSave",
     "title": "jQuery autoSave",
-    "description": "an autoSave jQuery plugin.",
+    "description": "Auto-Save your content when editing in HTML input and textarea DOM element.",
     "keywords": [
         "autoSave"
     ],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": {
         "name": "Yang Zhao",
         "url": "http://www.geniuscarrier.com/about/"
