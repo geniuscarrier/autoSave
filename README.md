@@ -55,7 +55,7 @@ Live Demo:
 -------------------------
 
 * [Homepage](http://www.geniuscarrier.com)
-* [Demo](http://www.geniuscarrier.com/demo/autoSave/autoSave.html)
+* [Demo](http://www.geniuscarrier.com/demo/autoSave/)
 
 License:
 -------------------------
