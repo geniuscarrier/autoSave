@@ -5,7 +5,7 @@
     "keywords": [
         "autoSave"
     ],
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": {
         "name": "Yang Zhao",
         "url": "http://www.geniuscarrier.com/about/"
@@ -24,7 +24,7 @@
         }
     ],
     "bugs": "https://github.com/geniuscarrier/autoSave/issues",
-    "demo": "http://www.geniuscarrier.com/demo/autoSave/autoSave.html",
+    "demo": "http://www.geniuscarrier.com/demo/autoSave/",
     "homepage": "http://geniuscarrier.com/autosave-a-jquery-plugin/",
     "docs": "https://github.com/geniuscarrier/autoSave",
     "download": "https://github.com/geniuscarrier/autoSave/archive/master.zip",

@@ -8,14 +8,14 @@ How to use:
 1. Include necessary JS files
 
 	```
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script src="js/jquery.autoSave.min.js"></script>
+	<script src="jquery.js"></script>
+	<script src="jquery.autoSave.min.js"></script>
   	```
 
 2. Add autoSave CSS file. Please tweak it to serve your needs.
 
 	```
-	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" href="style.css" />
 	```
 
 3. Create the following HTML element
@@ -40,7 +40,7 @@ How to use:
 	$("#text").autoSave(function() {
 		var time = new Date().getTime();
 		$("#msg").text("Draft Autosaved " + time);
-	}, 2000);
+	}, 500);
 	```
 	
 6. Have fun:-)
@@ -49,7 +49,7 @@ How to use:
 Compatibility:
 -------------------------
 
-* IE7 and above, Firefox, Chrome, Safari and Opera
+* IE8 and above, Firefox, Chrome, Safari and Opera
 	
 Live Demo:
 -------------------------
