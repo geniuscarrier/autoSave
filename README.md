@@ -54,8 +54,8 @@ Compatibility:
 Live Demo:
 -------------------------
 
-* [Homepage](http://www.geniuscarrier.com)
-* [Demo](http://www.geniuscarrier.com/demo/autoSave/)
+* [Homepage](http://geniuscarrier.com)
+* [Demo](http://geniuscarrier.com/autosave-a-jquery-plugin/)
 
 License:
 -------------------------
