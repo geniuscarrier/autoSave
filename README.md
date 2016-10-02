@@ -12,7 +12,7 @@ How to use:
 	<script src="jquery.autoSave.min.js"></script>
   	```
 
-2. Add autoSave CSS file. Please tweak it to serve your needs.
+2. (Optional) Add autoSave CSS file. Please tweak it to serve your needs.
 
 	```
 	<link rel="stylesheet" href="style.css" />
